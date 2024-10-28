@@ -122,9 +122,7 @@ const Main = ({ startQuiz }) => {
             <Item.Image src={mind} />
             <Item.Content>
               <Item.Header>
-                <h1>
-                  
-                </h1>
+               
               </Item.Header>
               {error && (
                 <Message error onDismiss={() => setError(null)}>
