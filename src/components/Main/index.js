@@ -123,7 +123,7 @@ const Main = ({ startQuiz }) => {
             <Item.Content>
               <Item.Header>
                 <h1>
-                  SmartSparx <br></br>Brikenda T. & Yllka M.
+                  
                 </h1>
               </Item.Header>
               {error && (
